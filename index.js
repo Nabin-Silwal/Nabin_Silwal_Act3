@@ -19,8 +19,8 @@ app.set('views', path.join(__dirname, 'views'));
 const config = {
     user: 'azureuser',
     password: 'P@ssw0rdssss',
-    server: 'activity.database.windows.net',
-    database: 'Activity3',
+    server: 'nabinactivity.database.windows.net',
+    database: 'nabindb',
     options: {
         encrypt: true,
         enableArithAbort: true
